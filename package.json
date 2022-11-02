@@ -1,0 +1,9 @@
+{
+  "name": "number-1",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "puppeteer": "^19.2.0"
+  }
+}
